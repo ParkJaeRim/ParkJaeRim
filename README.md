@@ -1,6 +1,6 @@
-# WHO AM I? <p align='right'> <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FParkJaeRim&count_bg=%23F55D3E&title_bg=%23BFC0C0&icon=&icon_color=%23E7E7E7&title=VISITED&edge_flat=false"/></a></p>
+# WHO AM I? 
 
-## Back-End Engineer 
+## Back-End Engineer <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FParkJaeRim&count_bg=%23F55D3E&title_bg=%23BFC0C0&icon=&icon_color=%23E7E7E7&title=VISITED&edge_flat=false"/></a>
 
 #### :bulb:  I can use... Spring  /  Vue.js  /  MySQL*(MariaDB)*
 
