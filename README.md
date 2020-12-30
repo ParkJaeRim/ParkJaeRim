@@ -17,7 +17,7 @@
 
 ##### :pushpin: Study SQL Tuning & Prepare certificate of SQLP 
 
-##### :pushpin: Make a toy project about Shopping Mall with springboot(gradle), Vue, MySQL
+##### :pushpin: Make a toy project about [Shopping Mall](https://github.com/ParkJaeRim/JJamShop) with springboot(gradle), Vue, MySQL
 
 [![ParkJaeRim's github stats](https://github-readme-stats.vercel.app/api?username=ParkJaeRim)](https://github.com/anuraghazra/github-readme-stats)
 
