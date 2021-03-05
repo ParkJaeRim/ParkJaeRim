@@ -2,7 +2,8 @@
 
 ## Back-End Engineer <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FParkJaeRim&count_bg=%23F55D3E&title_bg=%23BFC0C0&icon=&icon_color=%23E7E7E7&title=VISITED&edge_flat=false"/></a>
 
-#### :bulb:  I can use... Spring  /  Vue.js  /  MySQL*(MariaDB)*
+### :bulb:  My Major Tech stack is Java / Spring  /  Vue.js  /  MySQL *(MariaDB)* and... Python
+
  
 #### :bulb:  Studied on 
 
@@ -15,9 +16,9 @@
 
 ### NOW..
 
-##### :pushpin: Study SQL Tuning & Prepare certificate of SQLP 
+#### :pushpin: Study SQL Tuning & Prepare certificate of SQLP 
 
-##### :pushpin: Make a toy project about [Shopping Mall](https://github.com/ParkJaeRim/JJamShop) with springboot(gradle), Vue, MySQL
+#### :pushpin: Make a toy project about [Shopping Mall](https://github.com/ParkJaeRim/JJamShop) with Springboot(gradle), Vue, MySQL
 
 [![ParkJaeRim's github stats](https://github-readme-stats.vercel.app/api?username=ParkJaeRim)](https://github.com/anuraghazra/github-readme-stats)
 
