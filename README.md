@@ -39,6 +39,7 @@
 <img align="left" alt="Kotlin" src= "https://user-images.githubusercontent.com/29462979/125167189-444dc680-e1da-11eb-9b5f-4c2e010a1d6c.png" />
 <img align="left" alt="Node.js" src="https://user-images.githubusercontent.com/29462979/125167156-1b2d3600-e1da-11eb-96d4-1bff49c5ce65.png" />
 <img align="left" alt="Graphql" src="https://user-images.githubusercontent.com/29462979/125167129-f5079600-e1d9-11eb-8296-81075eecb663.png" />
+<img align="left" alt="Typescript" height= 45px src="https://user-images.githubusercontent.com/29462979/133378915-fdff4416-2671-4c72-b4f0-2a5f11486092.png" />
 <img align="left" alt="Vue.js" src="https://user-images.githubusercontent.com/29462979/125167204-56c80000-e1da-11eb-8877-ec61ec1684a1.png" />
 
 <img align="left" alt="Jira" src= "https://user-images.githubusercontent.com/29462979/125167230-6d6e5700-e1da-11eb-9919-c0a771598eab.png" />
