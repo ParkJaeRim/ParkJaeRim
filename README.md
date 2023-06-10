@@ -1,54 +1,57 @@
-# WHO AM I? 
 
+
+<div align="center">
+
+### BACK-END DEVELOPER WHO LIKES TO LEARN
+  </div>
+<div align="center" display="inline-block">
  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FParkJaeRim&count_bg=%23F55D3E&title_bg=%23BFC0C0&icon=&icon_color=%23E7E7E7&title=VISITED&edge_flat=false"/></a>
 
+  <br><br>
+ Working At: KakaoStyle (BackEnd Developer,  2021.04~) </a>
+  <br><br>
+  <strong>Contacts</strong>
+  <br>
+<a href="mailto:dbahck200@gmail.com">    
+    <img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/jaerim-park-107808161/">
+      <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <br>
+
+  <br><br>
+  <strong>Main Tech Stacks</strong>
+  <br>
+    <img src="https://img.shields.io/badge/kotlin-E0234E?style=for-the-badge&logo=kotlin&logoColor=white">
+       <img src="https://img.shields.io/badge/springboot-47A248?style=for-the-badge&logo=springboot&logoColor=white">
+             <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=white">
+      <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+    <img src="https://img.shields.io/badge/mariadb-4479A1?style=for-the-badge&logo=mariadb&logoColor=white">
+    <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+    <img src="https://img.shields.io/badge/aws-red?style=for-the-badge&logo=amazon&logoColor=white">
+    <img src="https://img.shields.io/badge/jira-blue?style=for-the-badge&logo=jira&logoColor=white">
+
+  <br>
+  <br>
+    <strong>Minor Tech Stacks </strong>
+  <br>
+          <img src="https://img.shields.io/badge/typescript-4285F4?style=for-the-badge&logo=typescript&logoColor=white">
+    <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
+    <img src="https://img.shields.io/badge/react-F7DF1E?style=for-the-badge&logo=react&logoColor=white">
+    <img src="https://img.shields.io/badge/postgreSQL-2088FF?style=for-the-badge&logo=postgreSQL&logoColor=white">
+  <img src="https://img.shields.io/badge/JAVA-FF160B?style=for-the-badge&logo=Java&logoColor=white">
+  <br>
+</div>  
+
+<br><br>
+
+<div align="center" display="inline-block">
 
 
-### :keyboard: WORKING AT
+  [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=riimy&theme=tistory)](https://riimy.tistory.com)
+
+  ![ParkJaeRim's github stats](https://github-readme-stats.vercel.app/api?username=parkjaerim) 
+</div>
 
 
-- ### KakaoStyle (BackEnd Developer,  2021~) 
-
-<br>
-
-
-
-### :bulb:  STUDY ON 
-
-- [**Samsung SW Academy For Youth (3rd)**](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp) **(2020.01~2020.12)**
-
-- **B.A. in Electronic Engineering (2015.03~2020.02)**
-
- 
- <br>
-
-### :pencil: CERTIFICATION 
-
-- [정보처리기사](http://www.q-net.or.kr/crf005.do?id=crf00503&jmCd=1320)
-
-- [SQLD](https://www.dataq.or.kr/www/sub/a_04.do)
-
-- [ADsP](https://www.dataq.or.kr/www/sub/a_06.do)
-
-<br>
-
-### 🛠 Languages and Tools:
-<img align="left" alt="Kotlin" src= "https://user-images.githubusercontent.com/29462979/125167189-444dc680-e1da-11eb-9b5f-4c2e010a1d6c.png" />
-<img align="left" alt="Spring" src="https://user-images.githubusercontent.com/29462979/125167109-def9d580-e1d9-11eb-95b7-7974571e5250.png" />
-<img align="left" alt="Java" src="https://user-images.githubusercontent.com/29462979/125167142-05b80c00-e1da-11eb-9883-860ef1562d1a.png" />
-<img align="left" alt="Node.js" src="https://user-images.githubusercontent.com/29462979/125167156-1b2d3600-e1da-11eb-96d4-1bff49c5ce65.png" />
-<img align="left" alt="Graphql" src="https://user-images.githubusercontent.com/29462979/125167129-f5079600-e1d9-11eb-8296-81075eecb663.png" />
-<img align="left" alt="Typescript" height= 45px src="https://user-images.githubusercontent.com/29462979/133378915-fdff4416-2671-4c72-b4f0-2a5f11486092.png" />
-<img align="left" alt="Vue.js" src="https://user-images.githubusercontent.com/29462979/125167204-56c80000-e1da-11eb-8877-ec61ec1684a1.png" />
-
-<img align="left" alt="Jira" src= "https://user-images.githubusercontent.com/29462979/125167230-6d6e5700-e1da-11eb-9919-c0a771598eab.png" />
-<img align="left" alt="github" src="https://user-images.githubusercontent.com/29462979/125167174-2b451580-e1da-11eb-8bfc-fbd5f9b3f86a.png" />
-
-<br>
-<br>
-<br>
-<br>
-
-#### 
-
-[![ParkJaeRim's github stats](https://github-readme-stats.vercel.app/api?username=ParkJaeRim)](https://github.com/anuraghazra/github-readme-stats)
