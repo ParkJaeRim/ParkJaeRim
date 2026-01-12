@@ -44,11 +44,4 @@
 
 <br><br>
 
-<div align="center" display="inline-block">
-
-  [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=step-by-step-develop&theme=tistory)](https://step-by-step-develop.tistory.com)
-
-  ![ParkJaeRim's github stats](https://github-readme-stats.vercel.app/api?username=parkjaerim) 
-</div>
-
 
