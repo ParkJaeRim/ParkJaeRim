@@ -2,14 +2,12 @@
 
 <div align="center">
 
-### BACK-END DEVELOPER
-  </div>
+# Hi there, I'm Jaerime Park 👋
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Jaerim-park&style=for-the-badge&color=blueviolet)](https://github.com/ParkJaeRim/ParkJaeRim)
+
+</div>
 <div align="center" display="inline-block">
-  <br><br>
- Working At: KakaoStyle (BackEnd Developer,  2021.04~) </a>
-  <br><br>
-  <strong>Contacts</strong>
-  <br>
 <a href="mailto:dbahck200@gmail.com">    
     <img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
@@ -18,6 +16,23 @@
   </a>
   <br>
 
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ParkJaeRim&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/ParkJaeRim/ParkJaeRim/output/github-contribution-grid-snake-dark.svg)
+
+</div>
   <br><br>
   <strong>Main Tech Stacks</strong>
   <br>
