@@ -14,17 +14,6 @@
   <a href="https://www.linkedin.com/in/jaerim-park-107808161/">
       <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <br>
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ParkJaeRim&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
 
 ## 🐍 Contribution Snake
 
